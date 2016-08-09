@@ -3,29 +3,27 @@ unix course in bash shell
 
 # topic_index 
 
-  - [Unix Introduction]   
-  - [Working with Unix Filesystem]
-  - [Creating Directories and Files]
-  - [Setting Permissions]   
-  - [Unix Commands and Processes]
-  - [File I/O]  
-  - [Configuring Unix Environment]
-  - [Setting Permissions]   
-  - [File Search with Regular Expressions]
-  - [File I/O]
-  - [Accessing GitHub]
+  - [Unix_Introduction]   
+  - [Working_with_Unix_Filesystem]
+  - [Creating_Directories_and_Files]
+  - [Setting_Permissions]   
+  - [Unix_Commands_and_Processes]
+  - [File_I/O]  
+  - [Configuring_Unix_Environment] 
+  - [File_Search_with_Regular_Expressions]
+  - [File_IO]
+  - [Accessing_GitHub]
 
 Let us explore the different Unix topics now in depth.
 _____________________
 
-[Unix Introduction]: <https://github.com/WilliamHoang/bitwise_operators/tree/master/Logical_Operators>
-[Working with Unix Filesystem]:  <https://github.com/WilliamHoang/bitwise_operators/tree/master/Twos_Complement>
-[Creating Directories and Files]:<https://github.com/WilliamHoang/bitwise_operators/tree/master/Shift_Operators>
-[Setting Permissions]: <https://github.com/WilliamHoang/bitwise_operators/tree/master/Logical_Operators>
-[Unix Commands and Processes]:  <https://github.com/WilliamHoang/bitwise_operators/tree/master/Twos_Complement>
-[File I/O]:<https://github.com/WilliamHoang/bitwise_operators/tree/master/Shift_Operators>
-[Configuring Unix Environment]: <https://github.com/WilliamHoang/bitwise_operators/tree/master/Logical_Operators>
-[Setting Permissions]:  <https://github.com/WilliamHoang/bitwise_operators/tree/master/Twos_Complement>
-[File Search with Regular Expressions]:<https://github.com/WilliamHoang/bitwise_operators/tree/master/Shift_Operators>
-[File I/O]:  <https://github.com/WilliamHoang/bitwise_operators/tree/master/Twos_Complement>
-[Accessing GitHub]:<https://github.com/WilliamHoang/bitwise_operators/tree/master/Shift_Operators>
+[Unix_Introduction]: <https://github.com/WilliamHoang/curric-unix-001-v1/tree/master/Unix_Introduction>
+[Working_with_Unix_Filesystem]:  <https://github.com/WilliamHoang/curric-unix-001-v1/tree/master/Working_with_Unix_Filesystem>
+[Creating_Directories_and_Files]:<https://github.com/WilliamHoang/curric-unix-001-v1/tree/master/Creating_Directories_and_Files>
+[Setting_Permissions]: <https://github.com/WilliamHoang/curric-unix-001-v1/tree/master/Setting_Permissions>
+[Unix_Commands_and_Processes]:  <https://github.com/WilliamHoang/curric-unix-001-v1/tree/master/Unix_Commands_and_Processes>
+[File_I/O]:<https://github.com/WilliamHoang/curric-unix-001-v1/tree/master/File_IO>
+[Configuring_Unix_Environment]: <https://github.com/WilliamHoang/curric-unix-001-v1/tree/master/Configuring_Unix_Environment>
+[File_Search_with_Regular_Expressions]:<https://github.com/WilliamHoang/curric-unix-001-v1/tree/master/File_Search_with_Regular_Expressions>
+[File_IO]:  <https://github.com/WilliamHoang/bitwise_operators/tree/master/Twos_Complement>
+[Accessing_GitHub]:<https://github.com/WilliamHoang/curric-unix-001-v1/tree/master/Accessing_GitHub>
