@@ -1,10 +1,10 @@
-# Access_GitHub
+# Unix_Introduction
 
-The topics here will be on how to connect and access GitHub
+The topics here will be on how to:  
 
-  - Environment Setup
-  - Permissions
-  - Git Clone
-  - Git Push
-
-This is the basic of getting up and running with GitHub and within Terminal application in the bash shell
+  - What is Unix
+  - Understanding Terminal
+  - Kernels and Shells
+  - Logging Command Prompt
+  - Command Structure
+  - Unix Documentations

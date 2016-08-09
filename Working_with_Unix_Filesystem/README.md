@@ -1,10 +1,7 @@
-# Access_GitHub
+# Working_with_Unix_Filesystem
 
-The topics here will be on how to connect and access GitHub
+The topics here will be on how to:
 
-  - Environment Setup
-  - Permissions
-  - Git Clone
-  - Git Push
-
-This is the basic of getting up and running with GitHub and within Terminal application in the bash shell
+  - Understanding the UNIX directory
+  - Listing Files and Directories
+  - Navigating the unix filesystem within Terminal 

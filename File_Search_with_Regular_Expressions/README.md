@@ -1,10 +1,11 @@
-# Access_GitHub
+# File_Search_with_Regular_Expressions
 
-The topics here will be on how to connect and access GitHub
+The topics here will be on how to:
 
-  - Environment Setup
-  - Permissions
-  - Git Clone
-  - Git Push
-
-This is the basic of getting up and running with GitHub and within Terminal application in the bash shell
+  - Introduction to GREP
+  - Search Unix System
+  - Grep Files
+  - Introduction to Regular Expressions
+  - Common commands
+  - Comparing files
+  - Argument passing
